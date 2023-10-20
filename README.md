@@ -1,12 +1,8 @@
 # Python-Samples
 
-In this section, I will provide an overview of the types of Business Intelligence operations that can be effectively performed using Python libraries like Pandas, Numpy, and Matplotlib." 
+In this section, I will provide an overview of the types of Business Intelligence operations that can be effectively performed using Python libraries like Pandas(for data manipulation), Numpy(for numerical operations), matplotlib.pyplot (for data visualization), seaborn (for statistical data visualization), and scikit-learn's functions for model selection and metrics.
 
 **Credit Scoring project** is a script that deals with credit scoring data. It performs various tasks related to data analysis, visualization, and the creation of a linear regression model. Here's a description of what each part of the code does:
-
-***Importing Libraries:***
-
-The code begins by importing several Python libraries, including pandas (for data manipulation), numpy (for numerical operations), matplotlib.pyplot (for data visualization), seaborn (for statistical data visualization), and scikit-learn's functions for model selection and metrics.
 
 ***Data Loading:***
 It loads two datasets - 'Data_CreditScoring_Train.csv' and 'Data_CreditScoring_Test.csv' using pandas, with 'training_data' and 'testing_data' as the respective dataframes.
