@@ -2,7 +2,7 @@
 
 In this section, I will provide an overview of the types of Business Intelligence operations that can be effectively performed using Python libraries like Pandas, Numpy, and Matplotlib." 
 
-**"Credit Scoring" project** is a script that deals with credit scoring data. It performs various tasks related to data analysis, visualization, and the creation of a linear regression model. Here's a description of what each part of the code does:
+**Credit Scoring project** is a script that deals with credit scoring data. It performs various tasks related to data analysis, visualization, and the creation of a linear regression model. Here's a description of what each part of the code does:
 
 ***Importing Libraries:***
 
